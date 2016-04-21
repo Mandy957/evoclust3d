@@ -1,1 +1,1 @@
-#This directory contains all code for MutClust3D and associated analyses
+#This directory contains all code for EvoClust3D and associated analyses
