@@ -1,2 +1,2 @@
-# Adaptation3D
-find spatially clustered mutations by mapping sequence mutations to PDB structures
+# EvoClust3D
+detect spatially clustered substitution in protein phylogenies
